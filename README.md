@@ -1,5 +1,11 @@
 # Beast-Hunter
 ## a card game for two players
+### Game Overview
+Beast hunter is an assymetrical poker game for two players; a contest between a hunter and the beasts. >  
+The Beast player will be laying down hands as 'Nests' face down, and trying to build nests of 5 or more cards>  which threaten to 
+charge at the hunter, and if the charge is succesful, score some points. >  
+
+
 __game materials__
 
 - 2 decks of playing cards, joker's included (It is encouraged to use decks with differently colored backs)
@@ -7,19 +13,21 @@ __game materials__
 - These rules
 	
 ### suit names
-	using the customary names for card suits is sufficient. However the game is more fun if you use special names for the suits
+	using the customary names for card suits is sufficient. 
+	
+	However, the game is more flavorful if you use special names for the suits
 	
 	the Beast suits are: 
 	- Feather (club) 
 	- Fur (heart) 
 	- scale (club) 
-	- weird (diamond)
+	- Weird (diamond)
 	
 	the Hunter suits are: 
-	- Arrow (spade) 
-	- Tool (diamond) 
-	- Club (club) 
-	- Heart (heart)
+	- Arrows (spades) 
+	- Traps (clubs) 
+	- Swords(diamonds) 
+	- Body (hearts)
 ### the cards
 #### UNIVERSAL CARDS
 - Joker - The Annihilator - infinite power
