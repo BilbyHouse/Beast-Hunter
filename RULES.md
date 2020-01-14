@@ -37,23 +37,23 @@ __game materials__
 - Ace - Ace in the hole - the 1 of its suit. In addition, a hand containing an ace beats any hand containing a Joker
 
 #### BEASTS' COURT
-- king of scales - The Imprisoned One - add power equal to number of other scale types in the nest
-- jack of weird  - Jack O' Lantern - when flipped add a card from another nest to the jack of weird's nest
-- king of fur - Monkey King - all non fur cards in this hand are fur cards
-- king of weird - The Fungal Rat - when flipped, absorbs all neightboring nests
-- jack of scales - Jacky Dragon - add one to power of nest
-- jack of fur - Jackrabbit - jwhen flipped, move to another nest
-- jack of feathers - Jackdaw - when flipped, steal tool from the hunter's active set and add it to this nest for the purposes of evaluiating power
-- queen of feathers - Godmother Swan - when flipped move ot another nest, along with all other feather cards in this nest
-- queen of weird - Eclipse Beast - If the hunter scouts the eclipse beast, the hunter may no longer scout. When flipped, return to hand
-- king of feathers - Emperor Penguin - when flipped, reveal any feather cards in any other nests and add them to this nest
-- queen of scales - The Mural Viper - 
-- queen of fur - The Billowing Lioness - 
+- King of Scales - The Imprisoned One - Add power equal to number of other scale types in the nest
+- Jack of Weird  - Jack O' Lantern - when flipped add a card from another nest to the jack of weird's nest
+- King of Fur - Monkey King - all non fur cards in this hand are fur cards
+- King of Weird - The Fungal Rat - when flipped, absorbs all neightboring nests
+- Jack of Scales - Jacky Dragon - add one to power of nest
+- Jack of Fur - Jackrabbit - jwhen flipped, move to another nest
+- Jack of Feathers - Jackdaw - when flipped, steal tool from the hunter's active set and add it to this nest for the purposes of evaluiating power
+- Queen of Feathers - Godmother Swan - when flipped move ot another nest, along with all other feather cards in this nest
+- Queen of Weird - Eclipse Beast - If the hunter scouts the eclipse beast, the hunter may no longer scout. When flipped, return to hand
+- King of Feathers - Emperor Penguin - when flipped, reveal any feather cards in any other nests and add them to this nest
+- Queen of Scales - The Mural Viper - 
+- Queen of Fur - The Billowing Lioness - 
 
 HUNTER'S SUPPLIES
-- all traps count as a wild numbered card of their suit
-- Queen of Arrows - Poison Arrow - fire arrow into face down nest. When nest is about to be flipped, name beast suit. When nest is flipped, all beasts of that suit are sent to the middens
-- Jack of Traps - Caltrops - counterspell for moving beasts, Costs one other card from hand
+- __All__ trap suit cards additionally count as any other suit.
+- Queen of Arrows - Poison Arrow - Place next to any nest along with another card from base. When you make a hunt at that nest, before revealing the nest, flip cards from the top of the nest and send them to the middens until you flip a card which matches the suit of the card accompanying Poinson Arrow. 
+- Jack of Traps - Caltrops - TRAP: When a beast roams, 
 - Queen of Traps - Poisoned Bait - lay on the table w/ another card. Moving beasts of that suit are sent to the middens
 - King of Body - Viscera - 3 points
 - Queen of Body - Breath - 2 points
