@@ -1,10 +1,12 @@
 # Beast-Hunter
 ## a card game for two players
 ### Game Overview
-Beast hunter is an assymetrical poker game for two players; a contest between a hunter and the beasts. >  
-The Beast player will be laying down hands as 'Nests' face down, and trying to build nests of 5 or more cards>  which threaten to 
-charge at the hunter, and if the charge is succesful, score some points. >  
-
+Beast hunter is an assymetrical poker game for two players; a contest between a hunter and the beasts.  
+The Beast player will be laying down hands as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to 
+charge at the hunter, and if the charge is succesful, score some points.  
+The hunter will have to pick the right time and place to go on a hunt with a hunter's kit of up to 5 cards, and then compare the kit
+to the selected nest. the higher hand scores.
+  Play continues until a payer wins by reaching 9 points.
 
 __game materials__
 
