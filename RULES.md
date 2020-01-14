@@ -33,8 +33,8 @@ __game materials__
 	- Body (hearts)
 ### the cards
 #### UNIVERSAL CARDS
-- Joker - The Annihilator - infinite power
-- Ace - Ace in the hole / Ace up my sleeve - 1 in its suit and beats the joker by itself
+- Joker - The Annihilator - A hand containing a joker beats any hand not containing an ace
+- Ace - Ace in the hole - the 1 of its suit. In addition, a hand containing an ace beats any hand containing a Joker
 
 #### BEASTS' COURT
 - king of scales - The Imprisoned One - add power equal to number of other scale types in the nest
