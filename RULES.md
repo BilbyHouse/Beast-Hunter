@@ -11,7 +11,8 @@ to the selected nest. the higher hand scores.
 __game materials__
 
 - 2 decks of playing cards, joker's included (It is encouraged to use decks with differently colored backs)
-- a set of sufficently many tokens
+- a turn wheel
+- a turn tracking token
 - These rules
 	
 ### suit names
