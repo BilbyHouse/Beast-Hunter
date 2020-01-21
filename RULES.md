@@ -37,32 +37,30 @@ __game materials__
 - Ace - Ace in the hole - the 1 of its suit. In addition, a hand containing an ace beats any hand containing a Joker
 
 #### BEASTS' COURT
-- King of Scales - The Imprisoned One - Add power equal to number of other scale types in the nest
-- Jack of Weird  - Jack O' Lantern - when flipped add a card from another nest to the jack of weird's nest
-- King of Fur - Monkey King - all non fur cards in this hand are fur cards
-- King of Weird - The Fungal Rat - when flipped, absorbs all neightboring nests
-- Jack of Scales - Jacky Dragon - add one to power of nest
-- Jack of Fur - Jackrabbit - jwhen flipped, move to another nest
-- Jack of Feathers - Jackdaw - when flipped, steal tool from the hunter's active set and add it to this nest for the purposes of evaluiating power
-- Queen of Feathers - Godmother Swan - when flipped move ot another nest, along with all other feather cards in this nest
-- Queen of Weird - Eclipse Beast - If the hunter scouts the eclipse beast, the hunter may no longer scout. When flipped, return to hand
-- King of Feathers - Emperor Penguin - when flipped, reveal any feather cards in any other nests and add them to this nest
-- Queen of Scales - The Mural Viper - 
+- King of Scales - The Imprisoned One - FLIP: Add power/points to this nest equal to number of other scale cards in the nest.
+- Jack of Weird  - Jack O' Lantern - FLIP: Add a card from another nest to the jack of weird's nest.
+- King of Fur - Monkey King - All cards in this nest are of the fur suit.
+- King of Weird - The Fungal Rat - FLIP: All cards in all adjascent nests roam to this nest.
+- Jack of Scales - Jacky Dragon - +1 power/points to this nest.
+- Jack of Fur - Jackrabbit - FLIP: Jackrabbit must roam to another nest.
+- Jack of Feathers - Jackdaw - FLIP: take a trap-suit card fromt he hunter's kit and aadd it to this nest. It is considered a feather suit for evaluating the power of this hand. ROAM: Discard this card to discard an active Hunter trap. 
+- Queen of Feathers - Godmother Swan - FLIP: May roam to another nest, along with any number of feather suit cards in this nest.
+- Queen of Weird - Eclipse Beast - If scouted, add to the Hunter's score area as -2 points.
+- King of Feathers - Emperor Penguin - FLIP: 
 - Queen of Fur - The Billowing Lioness - 
 
-HUNTER'S SUPPLIES
-- __All__ trap suit cards additionally count as any other suit.
-- Queen of Arrows - Poison Arrow - Place next to any nest along with another card from base. When you make a hunt at that nest, before revealing the nest, flip cards from the top of the nest and send them to the middens until you flip a card which matches the suit of the card accompanying Poinson Arrow. 
-- Jack of Traps - Caltrops - TRAP: When a beast roams, 
-- Queen of Traps - Poisoned Bait - lay on the table w/ another card. Moving beasts of that suit are sent to the middens
-- King of Body - Viscera - 3 points
-- Queen of Body - Breath - 2 points
-- Jack of Body - Limbs - 1 point
-- Queen of Blades - Razor - Add all fur type bests in the hunted nest to the score pile if you hunt succesfully. 1pt each.
-- Jack of Arrows - Crossbow - send the top card of a nest to the middens
-- King of Traps - Rolling Boulder - Counterspell movement
-- Jack of Blades - Machete - When you hunt a nest with the machete in your hand, shuffle nest and blindly send the top card to middens 
-- King of Blades - Zweihander - A kit containing Zweihander is must have 5 cards. You automatically succed in the hunt, but without seeing the nest.
-- King of Arrows - Javelin - Action: Discard along with another __card__. reveal and send cards from the top of a nest to the middens, unitl a card matching __card__'s suit is revealed.
+#### HUNTER'S SUPPLIES
+- Jack of Arrows - Crossbow - SHOOT: discard to send the top card of a nest to the middens, blindly.
+- Queen of Arrows - Poison Arrow - SHOOT: Place next to any nest along with another card from base. When you make a hunt at that nest and it it flipped, before resolving beast cards, kill all cards matching the suit of the card accompanying poison arrow
+- King of Arrows - Javelin - SHOOT: Discard along with another __card__. reveal and send cards from the top of a nest to the middens, unitl a card matching the accompanying __card__'s suit is revealed.
+- Jack of Traps - Caltrops - TRAP: When a beast roams, kill it and discard caltrops.
+- Queen of Traps - Poisoned Bait - TRAP: Play alongside another card from hand. roaming beasts of that card's suit are sent to the middens. Discard Poisoned Bait when the Beasts score.
+- King of Traps - Rolling Boulder - TRAP: When a beast roams, kill it and all beasts in any nest it was roaming to. Discard Rolling Boulder when the Beasts score
+- Jack of Body - Limbs - HUNT +1 power to kit
+- Queen of Body - Breath - HUNT +2 power to kit
+- King of Body - Viscera - HUNT: +3 power to kit
+- Queen of Blades - Razor - HUNT: Add all fur type bests in the hunted nest to the score pile if you win the hunt. 1pt each.
+- Jack of Blades - Machete - HUNT: Shuffle the hunted nest and kill the top card, blindly.
+- King of Blades - Zweihander - HUNT: A kit containing Zweihander must have 5 cards. You automatically succed in the hunt, blindly.
 
 
