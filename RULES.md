@@ -1,12 +1,18 @@
 # Beast-Hunter
 ## a card game for two players
 ### Game Overview
-Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by building powerful hands of cards using a simplified Poker-like system.
+Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by building powerful hands of cards using a simplified Poker-like system.  
+Each player has a unique deck of cards consisting of an ace through ten of four different suits, two jokers, and a set of twelve special cards unique to each deck. Clever use of your special cards is key to strong play.  
+The Hunter suits are: *Blades, Body, Arrows*, and *Traps*.  
+The Beast suits are: *Scales, Feathers, Fur*, and *Wierd*.  
 The Beast player will be laying hands of cards as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to charge at the hunter, and if the charge is succesful, score some points.  
-The hunter will have to pick the right time and place to go on a hunt with a Hunter's Kit of up to 5 cards, and then compare the kit to the selected nest. the higher hand scores.
-  Play continues until a payer wins by reaching 9 points.
+The hunter will have to pick the right time and place to go on a hunt with a Hunter's Kit of up to 5 cards, and then compare the kit to the selected nest. the higher hand scores.  
+Play continues until a player wins by reaching 9 points.
+  
+Will the Hunter slay the Beasts?  
+Or will they become the hunted?
 
-__game materials__
+#### game materials
 
 - These rules
 - 1 Beast deck (54 cards)
@@ -14,8 +20,8 @@ __game materials__
 - a turn tracking wheel
 - a turn tracking pawn
 
-#### SETUP
-1. Randomly select who will play the Beasts ans who wil play the Hunter.
+#### Setup
+1. Randomly select who will play the Beasts and who wil play the Hunter.
 2. Give each player the corresponding deck, and have them shuffled.
 3. Set the turn tracking wheel somehwere easily accesed by both players.
 4. Set the turn tracking pawn in the 'Dusk' wedge of the wheel.
@@ -23,9 +29,22 @@ __game materials__
 
 You are now ready to begin play!
 
-#### Turn Overview
+### Turn Overview
+Beginning with the Beasts player, each player takes turns in which they can perform a series of actions across several phases. In each phase, corresponding to a time of day or night, you may take one out of a couple of possible actions.  
 
-	
+The Beasts' turn looks like this:  
+1. __Draw a card__ from the Beasts deck.
+2. __Dusk--__ You may *Charge* with one nest that contains at least five cards.
+3. __Twilight--__ Choose one: *Roam* -OR- *Nest.*  
+4. __Midnight--__ Choose one: *Roam* -OR- *Nest.*  
+5. __Dawn--__ Choose one: *Roam* -OR- *Rustle.*  
+6. Turn ends.
+Charging, roaming, nesting and rustling will be explained in detail in the next section.
+
+The Hunter's turn looks like this:
+1. __Draw a card__ from the Hunter deck.
+2. __
+
 ### the cards
 #### UNIVERSAL CARDS
 - Joker - The Annihilator - A hand containing a joker beats any hand not containing an ace
