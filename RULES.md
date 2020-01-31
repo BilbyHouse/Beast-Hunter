@@ -1,36 +1,31 @@
 # Beast-Hunter
 ## a card game for two players
 ### Game Overview
-Beast hunter is an assymetrical poker game for two players; a contest between a hunter and the beasts.  
-The Beast player will be laying down hands as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to 
-charge at the hunter, and if the charge is succesful, score some points.  
-The hunter will have to pick the right time and place to go on a hunt with a hunter's kit of up to 5 cards, and then compare the kit
-to the selected nest. the higher hand scores.
+Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by building powerful hands of cards using a simplified Poker-like system.
+The Beast player will be laying hands of cards as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to charge at the hunter, and if the charge is succesful, score some points.  
+The hunter will have to pick the right time and place to go on a hunt with a Hunter's Kit of up to 5 cards, and then compare the kit to the selected nest. the higher hand scores.
   Play continues until a payer wins by reaching 9 points.
 
 __game materials__
 
-- 2 decks of playing cards, joker's included (It is encouraged to use decks with differently colored backs)
-- a turn wheel
-- a turn tracking token
 - These rules
+- 1 Beast deck (54 cards)
+- 1 Hunter deck (54 cards)
+- a turn tracking wheel
+- a turn tracking pawn
+
+#### SETUP
+1. Randomly select who will play the Beasts ans who wil play the Hunter.
+2. Give each player the corresponding deck, and have them shuffled.
+3. Set the turn tracking wheel somehwere easily accesed by both players.
+4. Set the turn tracking pawn in the 'Dusk' wedge of the wheel.
+5. Both players draw a starting hand of 5 cards.
+
+You are now ready to begin play!
+
+#### Turn Overview
+
 	
-### suit names
-	using the customary names for card suits is sufficient. 
-	
-	However, the game is more flavorful if you use special names for the suits
-	
-	the Beast suits are: 
-	- Feather (club) 
-	- Fur (heart) 
-	- scale (club) 
-	- Weird (diamond)
-	
-	the Hunter suits are: 
-	- Arrows (spades) 
-	- Traps (clubs) 
-	- Swords(diamonds) 
-	- Body (hearts)
 ### the cards
 #### UNIVERSAL CARDS
 - Joker - The Annihilator - A hand containing a joker beats any hand not containing an ace
