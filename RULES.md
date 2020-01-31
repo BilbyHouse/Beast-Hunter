@@ -60,6 +60,6 @@ __game materials__
 - King of Body - Viscera - KIT: +3 power to kit
 - Queen of Blades - Razor - KIT: Add all fur type bests in the hunted nest to the score pile if you win the hunt. 1pt each.
 - Jack of Blades - Machete - KIT: Shuffle the hunted nest and kill the top card, blindly.
-- King of Blades - Zweihander - KIT: A kit containing Zweihander must have 5 cards. You automatically win the hunt, but blindly. (cards are not flipped in the the nest, face cards, aces, and jokers in the nest have no effect).
+- King of Blades - Zweihander - KIT: A kit containing Zweihander must have 5 cards. You automatically win the hunt, but blindly. (cards are not flipped in the the nest, face cards, aces, and jokers in the nest have no effect).  -1 Point.
 
 
