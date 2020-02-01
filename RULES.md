@@ -39,7 +39,7 @@ __Beast Areas__:
  - The Beasts' __deck__, aka _the Hatchery_.
  - The Beasts' __face-up__ discard pile, aka the _Middens_. When the Beasts are defeated in a hunt or charge, the losing cards are placed face up in th middens.
  - The Beasts' __face-down__ discard pile, aka the _Blind_. When a Beast card is killed or discarded while not visible to the Hunter, it is placed face down in the Blind. When a card is "Killed blindly" it is sent here without being seen by the Hunter.
- - The Beasts' __hand__. AKA the _Droves_. The Droves are limited to 10 cards. If there are already 10 cards in the Droves and another would be added by drawing or roaming, that card is instead placed face down in the Blind
+ - The Beasts' __hand__. AKA the _Droves_. The Droves are limited to 10 cards. If there are already 10 cards in the Droves and another would be added by roaming, that card is instead placed face down in the Blind
  - The __Nests__. Face-down piles of a number of cards. The left-to-right arrangement of Nests needs to be maintained during play. The heart of the action in Beast Hunter occurs when the Hunter decides to go on a _hunt_ in one of the Beast player's nests. This is when both sides can potentially best the other and score points.
  - The Beasts' __score area__ aka the _Oasis_. When a hunt fails, or when a charge is victorious, the cards from that nest are placed here face-up.
  
