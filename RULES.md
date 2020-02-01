@@ -2,7 +2,7 @@
 ## a card game for two players
 ### Game Overview
 Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by building powerful hands of cards using a simplified Poker-like system.  
-Each player has a unique deck of cards consisting of an ace through ten of four different suits, two jokers, and a set of twelve special cards unique to each deck. Clever use of your special cards is key to strong play.  
+Each player has a unique deck of cards consisting of an ace through ten of four different suits, two 'Annihilators', and a set of twelve special cards unique to each deck. Clever use of your special cards is key to strong play.  
 The Hunter suits are: *Blades, Body, Arrows*, and *Traps*.  
 The Beast suits are: *Scales, Feathers, Fur*, and *Wierd*.  
 The Beast player will be laying hands of cards as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to charge at the hunter, and if the charge is succesful, score some points.  
@@ -10,7 +10,7 @@ The hunter will have to pick the right time and place to go on a hunt with a Hun
 Play continues until a player wins by reaching 9 points.
   
 Will the Hunter slay the Beasts?  
-Or will they become the hunted?
+Or will the Hunter become the hunted?
 
 #### game materials
 
@@ -19,36 +19,74 @@ Or will they become the hunted?
 - 1 Hunter deck (54 cards)
 - a turn tracking wheel
 - a turn tracking pawn
+- a way to note scores. Pen and paper, notes app, etc.
 
 #### Setup
 1. Randomly select who will play the Beasts and who wil play the Hunter.
-2. Give each player the corresponding deck, and have them shuffled.
+2. Give each player the corresponding deck, and have them shuffled. Each player should place their shuffled deck near them on the table. 
 3. Set the turn tracking wheel somehwere easily accesed by both players.
 4. Set the turn tracking pawn in the 'Dusk' wedge of the wheel.
 5. Both players draw a starting hand of 5 cards.
 
 You are now ready to begin play!
 
-### Turn Overview
-Beginning with the Beasts player, each player takes turns in which they can perform a series of actions across several phases. In each phase, corresponding to a time of day or night, you may take one out of a couple of possible actions.  
+#### The Play Area
+each player should note the key areas of the game. 
 
-The Beasts' turn looks like this:  
-1. __Draw a card__ from the Beasts deck.
+__Beast Areas__:
+ - The Beasts' __deck__, aka _the Hatchery_.
+ - The Beasts' __face-up__ discard pile, aka the _Middens_. When the Beasts are defeated in a hunt or charge, the losing cards are placed face up in th middens.
+ - The Beasts' __face-down__ discard pile, aka the Bilnd. When a Beast card is killed while not visible to the Hunter, it is placed face down in the Blind.
+ - The Beasts' __hand__. AKA the _Droves_. 
+ - The __Nests__. Face-down piles of a number of cards. The left-to-right arrangement of Nests needs to be maintained during play. The heart of the action in Beast Hunter occurs when the Hunter decides to go on a _hunt_ in one of the Beast player's nests. This is when both sides can potentially best the other and score points.
+ 
+ __Hunter Areas__:
+  - The Hunter's __deck__, aka _Home_.
+  - The Hunter's __hand__, aka the _Supply_.
+  - The Hunter's __discard pile__, aka the _Trash_. The Trash is always face up.
+  - The __Kit__. When the Hunter goes on a hunt they select up to 5 cards to form the Kit, which is placed face-up
+
+### Turn Overview
+Beginning with the Beast player, each player takes turns back and forth in which they can perform a series of actions across several phases. In each phase, which corresponds to a time of day or night, you may take one out of a couple of possible actions.  
+
+The Beasts' turn proceeds like this:  
+1. __Draw a card__ from the Beast deck.
 2. __Dusk--__ You may *Charge* with one nest that contains at least five cards.
 3. __Twilight--__ Choose one: *Roam* -OR- *Nest.*  
 4. __Midnight--__ Choose one: *Roam* -OR- *Nest.*  
 5. __Dawn--__ Choose one: *Roam* -OR- *Rustle.*  
-6. Turn ends.
-Charging, roaming, nesting and rustling will be explained in detail in the next section.
+6. Turn ends.  
 
-The Hunter's turn looks like this:
-1. __Draw a card__ from the Hunter deck.
-2. __
+Charging, roaming, nesting and rustling will be explained in full later on.
+
+The Hunter's turn proceeds like this:
+1. __Draw a card--__ from the Hunter deck.
+2. __Morning--__ Choose one: *Draw* a card -OR- *Hunt* -OR- *Shoot.*
+3. __Mid-day--__ Choose one: *Draw* a card -OR- *Hunt* -OR- *Shoot.*
+4. __Sunset--__ Choose one: *Scout* -OR- *Trap.*
+5. Turn ends.  
+
+Hunting, shooting, scouting and trapping will be explained in full later on.
+
+### Beast's Actions in Detail
+
+#### Roaming
+Roaming is, primarily, the way that the Beast player can draw new cards from their deck. However, it is also a way to move single cards to-and-fro very flexibly.  
+When you choose to Roam, you can move a single Beast card from one location to another. In full, choose from one of the following options:
+ - Roam one card from the top of the Beast deck to your hand.
+ - Roam one card from your hand to the top of an existing nest.
+ - Roam one card from the top of the Beast deck to the top of an existing nest.
+ - Roam one card from the top of an existing nest to your hand.
+ - Roam one card from the top of an existing nest to the top of the Beast deck.
+ - Roam one card from the top of one nest to the top of another existing nest.
+When a card roams to a nest, it always becomes the top card of tha nest. In the case of card effects which cause multiple cards to roam to the same place at once, the Beast player chooses the order, but all of the newly roamed cards must be on top of the cards that were already there.  
+Note: the card that the Beast player draws at the start of their turn does *not count* as roaming.
+
 
 ### the cards
 #### UNIVERSAL CARDS
-- Joker - The Annihilator - A hand containing a joker beats any hand not containing an ace
-- Ace - Ace in the hole - the 1 of its suit. In addition, a hand containing an ace beats any hand containing a Joker
+- The Annihilator - A kit/nest containing a joker beats any kit/nest not containing an ace, regarless of the power of the kit and nest.
+- Ace - Ace in the hole - The 1 of its suit. In addition, a kit/nest containing an ace beats any hand containing a Joker, regardless of the power of the hands
 
 #### BEASTS' COURT
 - King of Scales - The Imprisoned One - FLIP: Add power/points to this nest equal to number of other scale cards in the nest.
