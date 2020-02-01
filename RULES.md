@@ -25,9 +25,9 @@ Or will the Hunter become the hunted?
 
 #### Setup
 1. Randomly select who will play the Beasts and who wil play the Hunter.
-2. Give each player the corresponding deck, and have shuffle them. Each player should place their shuffled deck near them on the table. 
+2. Give each player the corresponding deck, and shuffle them. Each player should place their shuffled deck near them on the table. 
 3. Set the turn tracking wheel somehwere easily accesed by both players.
-4. Set the turn tracking pawn in the 'Dusk' wedge of the wheel.
+4. Set the turn tracking pawn between the 'Sunset' and 'Dusk' wedges on the turn tracking wheel.
 5. Both players draw a starting hand of 5 cards.
 
 You are now ready to begin play.
@@ -51,7 +51,7 @@ __Beast Areas__:
   - The Hunter's __score area__, aka the _Glory Room_. When a hunt is succesful, the cards in that Kit are placed here, face-up.
 
 ## Turn Overview
-Beginning with the Beast player, each player takes turns back and forth in which they can perform a series of actions across several phases. In each phase, which corresponds to a time of day or night, you may take one out of a number of possible actions. Ater taking each action, move the turn tracking pawn clockwise to the next wedge of the wheel to track progress through turns.
+Beginning with the Beast player, each player takes turns which they can perform a series of actions across several phases. In each phase, which corresponds to a time of day or night, you may take one out of a number of possible actions. Ater taking each action, move the turn tracking pawn clockwise to the next wedge of the wheel to track progress through turns. After the Beast has finished their turn, the Hunter begins their's, and vice versa.
 
 The Beasts' turn proceeds like this:  
 1. __Draw a card__ from the Beast deck. If there are 10 cards in hand, do not draw at this step.
@@ -84,7 +84,7 @@ When you choose to Roam, you can move a single Beast card from one location to a
  - Roam one card from the top of an existing nest to the top of the Hatchery.
  - Roam one card from the top of one nest to the top of another existing nest.
 When a card roams to a nest, it always becomes the top card of that nest. In the case of card effects which cause multiple cards to roam to the same place at once, the Beast player chooses the order of those cards, but all of the newly roamed cards must be on top of the cards that were already there.  
-Note: the card that the Beast player draws at the start of their turn does *not count* as roaming.
+__Note__: the card that the Beast player draws at the start of their turn does *not count* as roaming.
 
 #### Nest
 Playing a nest is the primary way for the Beast player to push the action forward. When you take the Nest action, choose any number of cards from your hand and place them face down on the table in an order of your choosing. If there are already one or more nests in play, you must choose to place the new nest either to the left or right of those already in play.  
