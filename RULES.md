@@ -124,10 +124,15 @@ When you hunt, pick a set of up to 5 cards from the Supply (your hand) and place
 Your target can be any nest in play, or the Droves (the beast player's hand) itself. When hunting in the Droves, all cards therein are considered to be in a nest and treated as such when resolving the hunt.
 
 The steps to making a hunt are as follows:
-1. Choose a nest in play, or the Droves. This is your 'target nest.' If you choose the Droves, all of the cards in the droves are treated as your target nest. The Droves are not considered adjascent to any nests for the purposes of card interaction.
+1. Choose a nest in play, or the Droves. This is your 'target nest.'
+  - You may _only_ hunt in the Droves if there are _no Nests in play_.
+  - When the Droves are hunted, all cards in the droves form the target nest.
+  - When hunted, the droves are not considered adjascent to any other nest.
 2. Choose up to five cards from your Supply to make a kit. Place those cards faceup on the table, visible to both players.
+  - A kit must be worth at least 1 point (before applying modifiers and effetcs) to be used.  
+  - If the Droves are being hunted, place _all_ cards from the Droves face down on the table as the target nest.
 3. Resolve any "KIT:" effects on special cards which come into effect before the target nest is flipped face up, as described in the card's rules (e.g. Machete, Zweihander).
-4. Flip the target nest face-up, making all cards visible to both players.
+4. __Flip__ the target nest face-up, making all cards visible to both players.
 5. Apply any "FLIP:" effects listed on special beast cards in the target nest. In the case of multiple "FLIP:" effects in the same nest, the Beast player chooses the order to resolve them in.
 6. Evaluate the power of the kit and the nest. The Hunter wins in the case of ties.
 7. The set of cards with the higher power wins the hunt and is set in its player's score area. That player scores points equal to the kit's/nest's point value. Typically, a kit's/nest's point value is equal to it's power. However, there are special cards that only add power, or that only add points.
@@ -149,11 +154,13 @@ A straight run of cards (e.g. 3 \> 4 \> 5).
 
 A group's value is one less than the number of cards in that group. For example a three card straight has power 2.   
 A 4-of-a-kind has power 3.  
-If a set of cards has multiple groups, take the value of the highest group(s).  
+If a set of cards has multiple groups, take the value of the highest group(s).
+>__example__: in a nest containing three 5s and two 9s, only the group of fives adds power, being the higher group of cards.  
+>__example__: The kit containing {Ace of Blades, 2 of Traps, 3 of Traps, 4 of Traps} has *4* power  
 
 __2. Multipliers.__  
 A straight flush, as in a straight of all the same suit, has its power doubled.  
-For example, the group \{4 of blades, 5 of blades, 6 of blades\} has power 4 (one less than three cards is 2, doubled is 4).  
+For example, the group \{4 of blades, 5 of blades, 6 of blades\} has power 4 (one less than three cards is 2, then doubled is 4).  
 In this step you also apply multipliers from special cards.
 
 __3. Additon from Special Cards__  
@@ -162,8 +169,8 @@ For example, the Hunter card Breath simply adds +2 power to its kit.
 
 #### Annihilators and Aces
 Any set of cards that includes an annihilator is considered to have infinite power, _unless_ the opposing set of cards inludes an ace. In that case the set of cards with the _ace_ is considered to have infinte power.  
-In all other cases, the ace is simply the 1 of its suit for the purposes of building card groups.  
-If a Kit containing an Annihilator is up against a nest also containing an Annihilator, the Hunter wins, beause the Hunter always wins ties.
+In all _other_ cases, the ace is simply the 1 of its suit for the purposes of building card groups.  
+If a Kit containing an Annihilator is up against a Nest also containing an Annihilator, the Hunter wins; the Hunter always wins ties.
 
 #### Example of evaluating power
 >A hunter's kit contains the following cards:  
@@ -185,9 +192,12 @@ Beast hunter is highly volatile within 1 game. It's totally possible to draw an 
 While playing a single game is a ton of fun, experieced players may start to get annoyed with the occasional random blowout.  
 In that case, It's encouraged to play a best-of-three series, switching sides between each game.  
 Alternatively, You can play a series of 4 games, switching sides each time, and play for total score across games.  
-In this variant, going for huge overkill wins is incentivized. However, that might open you up to a sneaky comeback if you get too greedy.
+In this variant, going for huge overkill-wins is incentivized. However, that might open you up to a sneaky comeback if you get too greedy. Have fun!
 
 ## The Special Cards
+
+> Correlation to regular poker cards is noted.  
+>You can play beast hunter with two regular poker decks!
 
 #### Matching Suits Across Decks
 Some cards, like the Javelin, will ask about matching suits between a Beast card and a Hunter card.  
