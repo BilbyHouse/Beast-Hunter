@@ -3,10 +3,10 @@
 
 
 ## Game Overview
-Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by building powerful sets of cards using a simplified Poker-like system.  
+Beast Hunter is a nail-biting asymmetrical card game for two players about the contest between a Hunter and their quarry, the Beasts. Points are scored by comparing sets of cards using a simplified Poker-like system.  
 Each player has a unique deck of cards consisting of an ace through ten of four different suits, two 'Annihilators', and a set of twelve special cards unique to each deck. Clever use of your special cards is key to strong play.  
 The Hunter suits are: *Blades, Body, Arrows*, and *Traps*.  
-The Beast suits are: *Scales, Feathers, Fur*, and *Wierd*.  
+The Beast suits are: *Scales, Feathers, Fur*, and *Weird*.  
 The Beast player will be laying sets of cards as 'Nests' face down, and trying to build nests of 5 or more cards which threaten to charge at the Hunter, and if the charge is succesful, score some points.  
 The hunter will have to pick the right time and place to go on a hunt with a Hunter's Kit of up to 5 cards, and then compare the kit to the selected nest. the better set of cards scores.  
 Play continues until a player wins by reaching 9 points.
@@ -77,11 +77,11 @@ Hunting, shooting, scouting and trapping will be explained in full later on.
 #### Roam
 Roaming is, primarily, the way that the Beast player can draw new cards from their deck. However, it is also a way to move single cards to-and-fro very flexibly.  
 When you choose to Roam, you can move a single Beast card from one location to another. In full, choose from one of the following options:
- - Roam one card from the top of the Beast deck to your hand.
- - Roam one card from your hand to the top of an existing nest.
- - Roam one card from the top of the Beast deck to the top of an existing nest.
- - Roam one card from the top of an existing nest to your hand.
- - Roam one card from the top of an existing nest to the top of the Beast deck.
+ - Roam one card from the top of the Hatchery (Beast deck) to the Droves (hand).
+ - Roam one card from the Droves to the top of an existing nest.
+ - Roam one card from the top of the Hatchery to the top of an existing nest.
+ - Roam one card from the top of an existing nest to the Droves.
+ - Roam one card from the top of an existing nest to the top of the Hatchery.
  - Roam one card from the top of one nest to the top of another existing nest.
 When a card roams to a nest, it always becomes the top card of that nest. In the case of card effects which cause multiple cards to roam to the same place at once, the Beast player chooses the order of those cards, but all of the newly roamed cards must be on top of the cards that were already there.  
 Note: the card that the Beast player draws at the start of their turn does *not count* as roaming.
@@ -99,9 +99,29 @@ Pick a nest containing at least 5 cards. The Hunter is forced to immediately cho
 
 ## Hunter Actions in Detail
 
+### Draw
+Draw a card from the Hunter deck and add it to the Supply (the Hunter's hand).
+
+### Scout 
+Scoutis how you gain scant information about the Beasts' possible activities.  
+You have three options when choosing to scout:
+1. Scout a nest. You look at the top card of that nest.
+2. Scout the Droves. You look at a card from the Beasts' hand, picked at random.
+3. Scout the Hatchery. You look at the top two cards of the Beasts' deck and put them back in the same order. The Beast player does not see them.
+
+### Shoot
+Some special Hunter cards have the "SHOOT:" keyword in their text.  
+If you have one of these cards in your Supply (hand), you may take the Shoot action in the morning or mid-day. Discard the card unless otherwise specified and follow the inscutions on the card.
+
+### Trap
+Some Special Hunter cards have the "TRAP:" keyword in their text.  
+If you have one of these cards in the Supply, you may take the Trap action at sunset.  
+Place the card face up on the table. As long as it remains on the table, it will have a persistent effect on roaming beasts.
+
 ### Hunt
 Hunts are the core action of Beast Hunter.  
-When you hunt, pick a set of up to 5 cards from the Supply (your hand) and place them face down on the table. then, chose a hunt target. Your target can be any nest in play, or the Droves (the beast player's hand) itself. When hunting in the Droves, all cards therein are considered to be in a nest and treated as such when resolving the hunt.
+When you hunt, pick a set of up to 5 cards from the Supply (your hand) and place them face down on the table. then, chose a hunt target.  
+Your target can be any nest in play, or the Droves (the beast player's hand) itself. When hunting in the Droves, all cards therein are considered to be in a nest and treated as such when resolving the hunt.
 
 The steps to making a hunt are as follows:
 1. Choose a nest in play. This is your 'target nest'
@@ -140,6 +160,11 @@ __3. Additon from Special Cards__
 Many special cards will add a flat amount of power to a set of cards. Make that addition here, after applying multipliers.  
 For example, the Hunter card Breath simply adds +2 power to its kit. 
 
+#### Annihilators and Aces
+Any set of cards that includes an annihilator is considered to have infinite power, _unless_ the opposing set of cards inludes an ace. In that case the set of cards with the _ace_ is considered to have infinte power.  
+In all other cases, the ace is simply the 1 of its suit for the purposes of building card groups.  
+If a Kit containing an Annihilator is up against a nest also containing an Annihilator, the Hunter wins, beause the Hunter always wins ties.
+
 #### Example of evaluating power
 >A hunter's kit contains the following cards:  
 >\{2 of traps, 3 of traps, 4 of traps, Limbs\}  
@@ -153,6 +178,14 @@ The point value of a winning set of cards is calculated in the same way as the s
 >In the example above, the kit would have 5 power, but be worth 4 points since Limbs only adds power and not points.
 
 ## The Special Cards
+
+#### Matching Suits Across Decks
+Some cards, like the Javelin, will ask about matching suits between a Beast card and a Hunter card.  
+Here are how the suits match up in these cases:  
+- Traps ~ Feathers
+- Blades ~ Scales
+- Body ~ Fur
+- Arrows ~ Weird
 
 #### UNIVERSAL CARDS
 - The Annihilator - A set of cards containing a joker beats any set not containing an ace, regarless of the power of those sets.
@@ -177,8 +210,8 @@ The point value of a winning set of cards is calculated in the same way as the s
 - Poison Arrow - SHOOT: Place next to any nest along with another card from hand. When you make a hunt at that nest and it is flipped, before resolving FLIP effetcs, kill all cards matching the suit of the card accompanying poison arrow.
 - Javelin - SHOOT: Discard along with another card. reveal and discard cards from the top of a nest to the middens, unitl a card matching the accompanying card's suit is revealed. That card is returned to the top of the nest.
 - Caltrops - TRAP: When a beast roams, kill it and discard caltrops.
-- Poisoned Bait - TRAP: Play alongside another card from hand. roaming beasts of that card's suit are killed blindly. Discard Poisoned Bait when the Beasts score (even if the scored nest is 0 points).
-- - Rolling Boulder - TRAP: When a beast roams, kill it and all beasts in any nest it was roaming to. Discard Rolling Boulder when the Beasts score (even if the scored nest is 0 points). 
+- Poisoned Bait - TRAP: Play alongside another card from hand. roaming beasts of that card's suit are killed blindly. Discard Poisoned Bait if the Beasts score (even if the scored nest is 0 points).
+- - Rolling Boulder - TRAP: When a beast roams, kill it and all beasts in any nest it was roaming to, then discard Rolling Boulder. Discard Rolling Boulder if the Beasts score (even if the scored nest is 0 points). 
 - Limbs - KIT: +1 power to kit.
 - Breath - KIT: +2 power to kit.
 - Viscera - KIT: +3 power to kit.
