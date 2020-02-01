@@ -177,6 +177,16 @@ If a Kit containing an Annihilator is up against a nest also containing an Annih
 The point value of a winning set of cards is calculated in the same way as the set's power, but taking care to not add points for cards which only add power. Note that the Jacky Dragon special beast card adds both one point and one power to its nest.  
 >In the example above, the kit would have 5 power, but be worth 4 points since Limbs only adds power and not points.
 
+## Game End
+The game ends as soon as one player has scored 9 points. That player is named the winner.
+
+### Playing a series
+Beast hunter is highly volatile within 1 game. It's totally possible to draw an amazing hand and score out in a few turns.  
+While playing a single game is a ton of fun, experieced players may start to get annoyed with the occasional random blowout.  
+In that case, It's encouraged to play a best-of-three series, switching sides between each game.  
+Alternatively, You can play a series of 4 games, switching sides each time, and play for total score across games.  
+In this variant, going for huge overkill wins is incentivized. However, that might open you up to a sneaky comeback if you get too greedy.
+
 ## The Special Cards
 
 #### Matching Suits Across Decks
